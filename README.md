@@ -13,7 +13,7 @@ I am currently working on Cloud and DevOps projects with a strong focus on autom
 - ☸️ Container Orchestration (Kubernetes)
 - 🏗 Infrastructure as Code (Terraform)
 - 🔁 CI/CD Pipelines (Jenkins & GitHub Actions)
-- Secure & Scalable Deployments
+- 🔐 Secure & Scalable Deployments
 
 ---
 
