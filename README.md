@@ -2,12 +2,10 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **Cloud & DevOps Projects**
-- 👯 I’m looking to collaborate on **Open Source, Automation & Infrastructure Projects**
-- 🤝 I’m looking for help with **Advanced Kubernetes & Scalable Cloud Architecture**
-- 🌱 I’m currently learning **Kubernetes, AWS, DevOps & CI/CD Pipelines**
-- 💬 Ask me about **Docker, Linux, Terraform, Jenkins & Cloud Deployment**
-- ⚡ Fun fact: I love turning manual tasks into automated systems ⚙️
+I am currently working on Cloud and DevOps projects with a strong focus on automation, scalable infrastructure, and modern deployment practices. I am actively learning Kubernetes, AWS, and CI/CD pipelines while exploring advanced cloud architecture patterns. I’m open to collaborating on open-source and infrastructure automation projects, and always eager to deepen my expertise in containerization, orchestration, and cloud deployment.
+
+⚡ I enjoy transforming manual processes into fully automated systems.
+
 
 ---
 
