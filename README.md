@@ -4,9 +4,6 @@
 
 I am currently working on Cloud and DevOps projects with a strong focus on automation, scalable infrastructure, and modern deployment practices. I am actively learning Kubernetes, AWS, and CI/CD pipelines while exploring advanced cloud architecture patterns. I’m open to collaborating on open-source and infrastructure automation projects, and always eager to deepen my expertise in containerization, orchestration, and cloud deployment.
 
-⚡ I enjoy transforming manual processes into fully automated systems.
-
-
 ---
 
 # 💻 Tech Stack
