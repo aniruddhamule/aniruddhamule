@@ -1,23 +1,23 @@
-# 👋 Hi, I'm Aniruddha Mule  
+# Hi, I'm Aniruddha Mule  
 
-## 🚀 About Me
+## About Me
 
 I am currently working on Cloud and DevOps projects with a strong focus on automation, scalable infrastructure, and modern deployment practices. I am actively learning Kubernetes, AWS, and CI/CD pipelines while exploring advanced cloud architecture patterns. I’m open to collaborating on open-source and infrastructure automation projects, and always eager to deepen my expertise in containerization, orchestration, and cloud deployment.
 
 ---
 
-## 📊 DevOps Focus
+##DevOps Focus
 
 - ☁️ Cloud Infrastructure (AWS)
 - 🐳 Containerization (Docker)
 - ☸️ Container Orchestration (Kubernetes)
 - 🏗 Infrastructure as Code (Terraform)
 - 🔁 CI/CD Pipelines (Jenkins & GitHub Actions)
-- 🔐 Secure & Scalable Deployments
+- Secure & Scalable Deployments
 
 ---
 
-# 💻 Tech Stack
+#Tech Stack
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
@@ -33,7 +33,7 @@ I am currently working on Cloud and DevOps projects with a strong focus on autom
 
 ---
 
-## 🌐 Connect With Me
+##Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniruddha9)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniruddhamule84@gmail.com)
