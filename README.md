@@ -6,7 +6,7 @@ I am currently working on Cloud and DevOps projects with a strong focus on autom
 
 ---
 
-##DevOps Focus
+## DevOps Focus
 
 - ☁️ Cloud Infrastructure (AWS)
 - 🐳 Containerization (Docker)
@@ -17,7 +17,7 @@ I am currently working on Cloud and DevOps projects with a strong focus on autom
 
 ---
 
-#Tech Stack
+# Tech Stack
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
@@ -33,7 +33,7 @@ I am currently working on Cloud and DevOps projects with a strong focus on autom
 
 ---
 
-##Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniruddha9)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniruddhamule84@gmail.com)
